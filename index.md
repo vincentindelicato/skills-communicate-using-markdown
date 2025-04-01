@@ -8,3 +8,7 @@ I added a Header 1 to my index.md file.
 Select *
 From Table
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
